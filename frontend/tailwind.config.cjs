@@ -11,6 +11,6 @@ module.exports = {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["dim"],
+    themes: ["sunset"],
   },
 }
